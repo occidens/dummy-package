@@ -1,0 +1,7 @@
+#+TITLE: dummy-package.el
+
+=Dummy-package= is a tool for installing a dummy package to satisfy a
+dependency that is already satisfied by a package with another
+name. The classic case for this is =org-plus-contrib= which also
+=org=. The technique used here is based on [[http://thread.gmane.org/gmane.emacs.orgmode/93322/focus%3D93365][a solution]] by Achim Gratz
+posted on the Org-mode mailing list.
